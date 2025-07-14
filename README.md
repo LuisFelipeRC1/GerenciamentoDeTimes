@@ -16,6 +16,7 @@ Cada equipe é representada por uma lista simplesmente encadeada.
 Os atletas de cada equipe estão organizados em uma lista circular duplamente encadeada.
 
 🧠 Estrutura dos Dados
+
 📁 Equipe
 Nome do time
 
