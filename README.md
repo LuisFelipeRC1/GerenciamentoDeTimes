@@ -8,48 +8,36 @@ Departamento de Computação – Engenharia de Computação
 Disciplina: COMP0405 - Estruturas de Dados – 2025.1
 Turma 02 – Grupo 11 – Tema 12
 
-📌 Descrição do Projeto
-Este projeto tem como objetivo implementar um sistema de gerenciamento de times ou equipes em um clube esportivo utilizando estruturas de dados com multilistas.
-
 Cada equipe é representada por uma lista simplesmente encadeada.
 
-Os atletas de cada equipe estão organizados em uma lista circular duplamente encadeada.
+# 🏟️ Gerenciamento de Times Esportivos
 
-🧠 Estrutura dos Dados
+Projeto desenvolvido para a disciplina **COMP0405 - Estruturas de Dados (2025.1)** na **Universidade Federal de Sergipe (UFS)**.  
+Trabalho com foco em listas encadeadas e estruturas complexas para gerenciamento de clubes esportivos.
 
-📁 Equipe
-Nome do time
+---
 
-Esporte praticado
+## 📘 Descrição
 
-Categoria (ex: Sub-17, Adulto, etc.)
+Este sistema permite o **gerenciamento de equipes e atletas** em um clube esportivo utilizando estruturas de dados avançadas:
 
-👤 Atleta
-Nome
+- **Lista simplesmente encadeada** para as equipes.
+- **Lista circular duplamente encadeada** para os atletas de cada equipe.
 
-Matrícula
+Cada equipe contém dados como nome, esporte e categoria. Cada atleta possui nome, matrícula, idade, número da camisa e quantidade de faltas.
 
-Idade
+---
 
-Número da camisa
+## 🚀 Funcionalidades
 
-Quantidade de faltas
+✅ Cadastrar equipe  
+✅ Cadastrar atleta em equipe  
+✅ Remover equipe  
+✅ Remover atleta  
+✅ Exibir todas as equipes cadastradas  
+✅ Exibir composição de equipe específica  
+✅ Exibir dados de atleta específico  
+✅ Exibir todos os atletas por categoria  
 
-✅ Funcionalidades
-O sistema possui as seguintes operações:
+---
 
-📌 Cadastrar equipe
-
-🧍‍♂️ Cadastrar atleta em equipe
-
-❌ Remover equipe
-
-❌ Remover atleta
-
-📋 Exibir todas as equipes cadastradas
-
-🔍 Exibir composição de uma equipe específica
-
-👓 Exibir dados de um atleta específico
-
-🏷️ Exibir todos os atletas de uma determinada categoria
